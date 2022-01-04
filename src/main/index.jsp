@@ -8,7 +8,7 @@
 <p>
 </p>
 <div>
-    <h1><%= "Hello, My name is Firdaus bin Mohd Nasri"%>
+    <h1><%= "Hello, My name is Firdaus bin Mohamad Nasri"%>
 </div>
 </body>
 </html>
